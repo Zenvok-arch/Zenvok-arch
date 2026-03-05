@@ -36,6 +36,8 @@ JavaScript • React • Node.js • Express • Python • Git
 
 🥈 **Google Lead Scraper** — [Repo](https://github.com/Zenvok-arch/Local-Lead--Exporter)
 
+🎵 **Spotify UI Demo with Music Player** — [Repo](https://github.com/Zenvok-arch/spoticlone) • [Live](https://spoticlone.pages.dev/)
+
 🥉 **Dashboard UI** — [Repo](https://github.com/zenvok-arch/Dashbord-1) • [Live](https://zenvok-arch.github.io/Dashbord-1/)
 
 🔐 **Password Manager** — [Repo](https://github.com/Zenvok-arch/Password-Manager-2) • [Live](https://zenvok-arch.github.io/Password-Manager-2/)

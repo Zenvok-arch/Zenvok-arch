@@ -56,7 +56,7 @@ JavaScript • React • Node.js • Express • Python • Git
 
 ## 🚧 Currently Building
 
-🎌 **Anime Info Site**
+none
 
 ---
 
